@@ -1,0 +1,21 @@
+
+ <!doctype html>
+<html>
+<head><title>  doge social network</title>
+</head>
+<body style="background-color:#66CCFF" >
+<h1><strong>Doge social network</strong></h1>
+
+<ul  type="desc">
+<li><a href="#">Home</a></li>
+<li><a href="#">profile<a/></li>
+<li><a href="#">friends</a></li>
+</ul>
+<hr>
+<h2>Friends of Doge</h2>
+<hr>
+<p>Here you can find friends or stalk strangers.</p>
+<p>the doge social network doesn't take any resposiblitiy for the information found.</p>
+ 	  
+</body>
+</html>
